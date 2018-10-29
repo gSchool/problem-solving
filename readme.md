@@ -24,7 +24,7 @@ The problem solving process is based on mathematician George Pólya's technique 
         - Identify sensible defaults for each primitive type
         - Identify which parts of a function are boilerplate and which require thought
         - Write the boilerplate code from memory
-  - Use problem solving process during whiteboard interview
+- Use problem solving process during whiteboard interview
 
 # Problem Solving Overview (memorize these steps!)
 
@@ -127,7 +127,7 @@ The example above demonstrates:
 
 It's not a bad idea to quickly confirm if there's anything you've missed before writing code.
 
-# Step Two: Devise a plan
+# Step 2: Devise a plan
 
 ## Come up with more than one possible solution
 
@@ -248,7 +248,7 @@ Here's an example script that covers everything you've learned up to this point:
 After writing both functions you check both answers, and they hire you on the spot! Just kidding, lots of places have multiple levels of whiteboard interviews :)
 
 
-# Step Three: Carry out the plan
+# Step 3: Carry out the plan
 
 **Rationale**
 
@@ -351,7 +351,7 @@ Here are some places where your solution won't look identical to this:
 - Not all inputs need to be iterated over
 - Sometimes you don't actually need a `result` _variable_ (especially when you are programming in a functional style and just return a chained `map`, `filter`, `reduce` etc...)
 
-# Step Four: Look Back
+# Step 4: Look Back
 
 **Check for correctness - Test it out on the whiteboard**
 
