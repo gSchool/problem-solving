@@ -31,6 +31,8 @@ The problem solving process is based on mathematician George Pólya's technique 
 1. Understand the Problem
     * Identify Inputs and Outputs
     * Ask "What if" Questions
+    * Identify any constraints
+    * Try to restate the problem in your own words
 2. Devise a Plan
     * Come up with more than one possible solution
     * Choose a solution based on Performance, Maintainability and your Capability
