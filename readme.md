@@ -1,4 +1,4 @@
-# Problem sovling for whiteboard interviews
+# Problem solving for whiteboard interviews
 
 Problem solving is a core skill for software engineers. Whether you are debugging something in a code base, or working through an interview challenge, you will need to have a plan in place for how to approach the problem. Without one, you may find yourself quickly getting stuck or distracted by unrelated issues. Worse - during an in-person interview, you might find it difficult to stay on track, focused and able to scope the problem. Having a well rehearsed process will help you come accross as confident and professional.  
 
